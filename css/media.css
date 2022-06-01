@@ -1,0 +1,9 @@
+@media (max-width: 995px) {
+  .intro-h-600px {
+    height: auto;
+  }
+  .h-md-300px {
+    height: 300px;
+    margin-bottom: 10px;
+  }
+}
